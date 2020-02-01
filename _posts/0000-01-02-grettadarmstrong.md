@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The difference between genius and stupidity is that genius has its limits.
 Use the left arrow to go back!
